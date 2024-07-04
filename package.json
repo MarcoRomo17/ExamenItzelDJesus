@@ -15,5 +15,8 @@
   "workspaces": [
     "src/ExamenItz_backend",
     "src/ExamenItz_frontend"
-  ]
+  ],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
